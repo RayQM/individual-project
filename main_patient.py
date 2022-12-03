@@ -54,8 +54,6 @@ def searchPatientByld():
         return patient_info
     else:
         print (f"patient with ID {id_user} not in the patient file")
-            
-       # fsdfsdf
 
         
 def editPatientInfo9():
@@ -66,9 +64,6 @@ def editPatientInfo9():
             P.diagnosis = str(input("Enter Diagnsis plz: "))
             P.gender=str(input("Enter Gender plz: "))
             P.age=input("Enter age plz: ")
-            
-
-
    
 def displayPatientList():
     for p in patient_list:

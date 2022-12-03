@@ -21,7 +21,6 @@ class Patient:
         else :
             return False
 
-    
     def __str__(self):
         return f"{self.id:>10s}{self.name:>10s}{self.diagnosis:>10s}{self.gender:>10s}{self.age:>10s}"
     

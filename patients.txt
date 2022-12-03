@@ -3,4 +3,4 @@ ID_Name_Diagnosis_Gender_Age
 13_Janina_Cold_Female_23
 14_Alonna_Malaria_Female_45
 15_Ravi_Diabetes_Male_65
-18_Lei_cold_male_34
+21_lei_cold_male_27
